@@ -94,7 +94,7 @@ colPerc(table2)
 ```
 
 
-The people who ended up getting aids was about 25% of them and they have taken the drug and about 75% have taken the placebo.The overall that did not get anything did not take the drug and the other half took the placebo. 
+The people who ended up getting aids was about 140 out of 2500. We see those who took the drug and did not get aids was about 50 %. Those who did was around 24%. With those who took the placebo about 76% did get aids as we see above. 
 
 ## Inferential Results
 
