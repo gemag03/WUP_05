@@ -33,6 +33,9 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
+
+We are asked to consider if the drug norvin is an effective treatment for the prevention of aids.The dataframe RDF has a categorical variable of either the drug or placebo.And another categorical variable of the outcomes being aids or not. Our hypothesis is that the drug norvin does not work.
+
 # Results
 
 <!--Divide this section into two sub-sections:  One for your descriptive  results and one for your inferential results.!-->
