@@ -108,7 +108,7 @@ chisqtestGC(table2)
 ```
 
 
-There is a big statistical difference that the p value of the drug did not work. This drug is affecting the LGBTQ+ community. The drug is working for them more than those who took the placebo. Those who got aids were the ones who took the placebo. 
+There is a big statistical difference that the p value of the drug did not work. This drug is affecting those with aids. The drug is working for them more than those who took the placebo. Those who got aids were the ones who took the placebo. 
 
 
 
@@ -117,4 +117,4 @@ There is a big statistical difference that the p value of the drug did not work.
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
 
-In conclusion, using chatGBT in the plots had us confused but we will figure that out one day. It did not show us the percent chart as the helper file did. The drug did work for the LGBTQ+ community and did stop aids. The 75% who took the placebo did indeed get aids and the 25% who took the drug did not. 
+In conclusion, using chatGBT in the plots had us confused but we will figure that out one day. It did not show us the percent chart as the helper file did. The drug did work for those with aids and did stop aids. The 75% who took the placebo did indeed get aids and the 25% who took the drug did not. 
